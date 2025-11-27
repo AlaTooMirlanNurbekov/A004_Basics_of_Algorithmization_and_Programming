@@ -52,3 +52,4 @@ public class Q2BinarySearch {
         return -1; // not found
     }
 }
+
